@@ -1,4 +1,4 @@
-# irecycle.github.io
+# irecyclebaguio.github.io
 
 ## Welcome to GitHub Pages
 
