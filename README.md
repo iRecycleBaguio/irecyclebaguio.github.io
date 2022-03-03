@@ -1,1 +1,1 @@
-# irecycle.github.io
+# irecyclebaguio.github.io
