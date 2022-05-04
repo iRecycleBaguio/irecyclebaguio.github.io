@@ -1,5 +1,7 @@
 **iRecycle User App Documentation**
+
 ## Home
+
 > Account Balance
 
 > Rewards
@@ -13,8 +15,10 @@
 ## Express
 
 #### I.Door-to-Door Recycling Service
+
 An order form that allows user to register online for recycling pick-up.
 **Order Form flows**
+
 1. On-click prompt for subscription service only
 
 | CASE  | ACTION | DESCRIPTION |
