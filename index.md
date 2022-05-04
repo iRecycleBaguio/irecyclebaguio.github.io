@@ -14,12 +14,12 @@
 
 ## Express
 
-#### I.Door-to-Door Recycling Service
+#### I. Door-to-Door Recycling Service
 
 An order form that allows user to register online for recycling pick-up.
 **Order Form flows**
 
-1. On-click prompt for subscription service only
+- On-click prompt for subscription service only
 
 | CASE  | ACTION | DESCRIPTION |
 |:-----|:------------------|:------------------|
@@ -27,10 +27,10 @@ An order form that allows user to register online for recycling pick-up.
 | No | Ask for iRecycle Express Registration  | No - direct to Homepage |
 | Cancel | Back | - |
 
-2. Order confirmation
-3. Thank you page
-4. Order Details page
+- Order confirmation
+- Thank you page
+- Order Details page
 
-#### II.Order History
+#### II. Order History
 
 ## My Account
