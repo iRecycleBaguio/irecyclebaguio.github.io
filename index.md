@@ -1,10 +1,11 @@
+# iRecycle Docs
 # Home
-Account Balance
-***
-Rewards
-***
-What’s New
-***
+> Account Balance
+
+> Rewards
+
+> What’s New
+
 # My Coupon
 
 # Map
