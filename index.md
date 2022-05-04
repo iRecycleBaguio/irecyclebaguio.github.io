@@ -1,4 +1,4 @@
-iRecycle Docs
+# **iRecycle User App Documentation**
 ## Home
 > Account Balance
 
