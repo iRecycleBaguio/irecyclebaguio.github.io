@@ -1,4 +1,4 @@
-# iRecycle Docs
+iRecycle Docs
 ## Home
 > Account Balance
 
